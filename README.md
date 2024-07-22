@@ -16,10 +16,10 @@ The goal is to analyse NBA draft combine measurements to uncover patterns and
 
 **Methodologies**
 
-**Data Collection:-** Given 
-**Data Cleaning:-** Python Libraries 
-**Software Used:-** Python, Excel, Power BI, Google Sheets
-**Data Analysis:-** Power BI
+**Data Collection:-** Given; 
+**Data Cleaning:-** Python Libraries; 
+**Software Used:-** Python, Excel, Power BI, Google Sheets; 
+**Data Analysis:-** Power BI 
 
 **Key Insights**
 -Analysed player's success by observing their performances.
